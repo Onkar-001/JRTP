@@ -6,12 +6,10 @@ public class test1 {
 		System.out.println("MSG from DEV2");
 		System.out.println("Dev2 doing changes");
 	}
-<<<<<<< Updated upstream
 	public void m2() {
 		System.out.println("test456 methods is going on...");
-=======
+	}	
 	public void m1() {
 		System.out.println("task123 is going on...");
->>>>>>> Stashed changes
 	}
 }
